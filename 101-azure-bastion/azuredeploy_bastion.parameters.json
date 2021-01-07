@@ -3,7 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
       "bastion-host-name": {
-        "value": "GEN-UNIQUE-8"
+        "value": "bastion-aml-private-ne-279"
+    },
+      "resourcegroupname": {
+        "value": "aml-private-ne-279"
     }
   }
 }
